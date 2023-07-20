@@ -1,4 +1,4 @@
-<h1>Nessus Essentials Vulnerability Management Lab</h1>
+<h1>Gestion des vulnérabilités avec Nessus Essentials</h1>
 
 <h2>Description</h2>
 Ceci est une démonstration de la façon dont j'ai créé un environnement de machine virtuelle en utilisant VMWare sous Windows 10. J'ai réalisé ce projet pour acquérir de l'expérience avec Nessus Essentials et apprendre à rechercher des vulnérabilités et à y remédier. Ce projet présentera deux des principales étapes du cycle de vie de la gestion des vulnérabilités. J'utiliserai Nessus Essentials pour analyser des machines virtuelles locales hébergées sur VMWare Workstation afin d'effectuer des analyses avec accréditation pour découvrir des vulnérabilités, remédier à certaines d'entre elles, puis effectuer une nouvelle analyse pour vérifier la remédiation.
